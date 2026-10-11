@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: pgprakash/batch13:5
+        image: pgprakash/mindcircuitbatch13:23
         ports:
         - containerPort: 8080
 
